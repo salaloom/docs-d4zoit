@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-ewjqj0.hsteamid.com/sitemap.xml
